@@ -61,15 +61,9 @@
 
 
 <div align="center">
-    <p><img style="height:195px; width:495px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" />
-  
- </p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bahy&" alt="M-Bahy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en" alt="M-Bahy" /></p>
+    <p><img style="height:195px; width:495px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bahy&" alt="M-Bahy" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en" alt="M-Bahy" /></p>
   </div>
-  
- <h3 align="left">Trophies:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-Bahy" alt="M-Bahy" /></a> </p>
 
 
