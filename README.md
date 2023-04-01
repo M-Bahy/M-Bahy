@@ -61,7 +61,7 @@
 
 
 <div >
-    <p><img style="height:195px; width:495px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p>
+<p><img style="height:195px; width:495px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bahy&layout=compact" alt="M-Bahy" /></p>
   
   </div>
