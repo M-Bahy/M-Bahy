@@ -11,8 +11,8 @@
 
 ### I'm Mohamed Ayman Bahy
 
-- :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering. 
-- :seedling: I'm currently learning and improving my skills in JavaScript & Next.js.
+- :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering 
+- :seedling: I'm currently learning and improving my skills in Nest.js & Next.js
 - 🔭 I’m currently working on a Data Base engine and an Online Banking System 
 - 🤝 I’m interested in Software Engineering
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
