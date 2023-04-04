@@ -45,7 +45,7 @@
 <img alt="Pandas" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
 <img alt="NumPy" width="60px"  src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
 <img alt="Visual Studio" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
-<img alt="Eclipse IDE" width="120px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<!-- <img alt="Eclipse IDE" width="120px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> -->
   <img alt="MERN stack" width="120px" src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=61DAFB" />
 
 
