@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a Data Base engine and an Online Banking System 
 - 🤝 I’m interested in Software Engineering
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
-<!--     - 📄 Know about my experiences [my cv](cv link)                                  -->
+- 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1VreNTF7rQSNC28lmo5GTc_PQkQ8FLgDb/view?usp=share_link)                                  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
