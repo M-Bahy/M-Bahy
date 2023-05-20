@@ -31,11 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a>
   <img alt="Prolog" width="60px" src="https://www.swi-prolog.org/icons/swipl.png" />
-  <img alt="NPM" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img alt="Haskell" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg" />
 <img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" /> 
-<img alt="NumPy" width="60px"  src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
-  <img alt="MERN stack" width="120px" src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=61DAFB" />
+<img alt="MERN stack" width="120px" src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=61DAFB" />
 
 
 
@@ -52,10 +50,10 @@
 ### :fire: My Stats :
 
 
-<div align="center">
-<p><img style="height:195px; width:495px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="M-Bahy" />
+<div align="left">
+<p><img style="height:195px; width:400px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="M-Bahy" />
   
-  </p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p>
+  </p><p>&nbsp;<img style="height:195px; width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p>
   
   
   </div>
