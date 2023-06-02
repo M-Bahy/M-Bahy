@@ -10,12 +10,11 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1> -->
-
+<!-- - 🔭 I’m currently working on a Data Base engine and an Online Banking System  -->
 <!-- ### I'm Mohamed Ayman Bahy -->
 
 - :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering 
 - :seedling: I'm currently learning and improving my skills in Javascript
-- 🔭 I’m currently working on a Data Base engine and an Online Banking System 
 - 🤝 I’m interested in Backend
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
 - 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1IN7cTfBQ-eOaLUjSH1YUSmtTUVqaq8NO/view?usp=share_link)                                  
