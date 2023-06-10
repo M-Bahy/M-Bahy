@@ -5,7 +5,7 @@
 </h1> -->
 <h1 align="center">Hi 👋, I'm Mohamed Ayman Bahy</h1>
 <h3 align="center">I am a Software Engineer</h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Bahy&label=Profile%20views&color=0e75b6&style=flat" alt="M-Bahy" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Bahy&label=Profile%20views&color=0e75b6&style=flat" alt="M-Bahy" /> </p>
 <!-- <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
