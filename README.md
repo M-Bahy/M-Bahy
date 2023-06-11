@@ -3,7 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hello+There+👋;I+am+Mohamed+Ayman;A+passionate+Software+Engineer;Nice+to+meet+you">
   </a>
 </h1> -->
-<h1 align="center">Hi 👋, I'm Mohamed Ayman Bahy</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mohamed Ayman Bahy</h1> -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Mohamed Ayman Bahy</h1>
+<!-- <span>
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
+</span> -->
 <h3 align="center">I am a Software Engineer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Bahy&label=Profile%20views&color=0e75b6&style=flat" alt="M-Bahy" /> </p> -->
 <!-- <h1 align="center">
