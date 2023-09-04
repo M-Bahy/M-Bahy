@@ -7,8 +7,8 @@
 <!-- - 🔭 I’m currently working on a Data Base engine and an Online Banking System  -->
 
 
-- :mortar_board: I'm a 3rd-Year Undergrad Student @ GUC majoring in Computer Science and Engineering 
-- :seedling: I'm currently learning and improving my skills in React and Django
+- :mortar_board: I'm a 4th-Year Undergrad Student @ GUC majoring in Computer Science and Engineering 
+- :seedling: I'm currently learning and improving my skills in React
 - 🤝 I’m interested in Backend
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
 - 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1nXKbpTdu3a4AiggT63f96qfX7xolTQrJ/view?usp=sharing)                                  
