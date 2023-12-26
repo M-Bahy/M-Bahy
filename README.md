@@ -9,7 +9,7 @@
 
 - :mortar_board: I'm a 4th-Year Undergrad Student @ GUC majoring in Computer Science and Engineering 
 - :seedling: I'm currently learning and improving my skills in React
-- 🤝 I’m interested in Backend
+- 🤝 I’m interested in Full stack web development
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
 - 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1nXKbpTdu3a4AiggT63f96qfX7xolTQrJ/view?usp=sharing)                                  
 ---
@@ -26,10 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img alt="MERN stack" width="120px" src="https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=61DAFB" />
 
 
