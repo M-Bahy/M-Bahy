@@ -45,7 +45,7 @@
 
 
 <div align="left">
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&hide=jupyter%20notebook" alt="M-Bahy" />
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Bahy&show_icons=true&locale=en&hide=jupyter%20notebook,Makefile,CMake" alt="M-Bahy" />
   
 <!--   </p><p>&nbsp;<img style="height:195px; width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=M-Bahy&show_icons=true&locale=en&layout=compact" alt="M-Bahy" /></p> -->
   
