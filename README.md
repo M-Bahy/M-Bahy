@@ -8,10 +8,9 @@
 
 
 - :mortar_board: I'm a Senior Student @ GUC majoring in Computer Science and Engineering 
-- :seedling: I'm currently learning and improving my skills in React
-- 🤝 I’m interested in Full stack web development
+- 🤝 I’m interested in Software development projects
 - 📫 How to reach me **mohamedayman2942002@gmail.com**
-- 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1nXKbpTdu3a4AiggT63f96qfX7xolTQrJ/view?usp=sharing)                                  
+- 📄 Know about my experiences : [CV](https://drive.google.com/file/d/1hnYUog0dOC3jrRi_nbE6wjfL-j4xoK3L/view?usp=sharing)                                  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
